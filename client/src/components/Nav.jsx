@@ -1,6 +1,6 @@
 const Nav = () => {
   return (
-    <div className="px-10 py-5 flex justify-between backdrop-blur z-10 sticky top-0 shadow-xl">
+    <div className="px-10 py-5 flex justify-between bg-primary z-10 sticky top-0 shadow-xl">
       <a href="/" className="flex items-center gap-2">
         <img
           src="https://res.cloudinary.com/shishirasdjfadsfj/image/upload/v1695725306/cblpu/of0sh9fxngmdj3twgdh0.png"
