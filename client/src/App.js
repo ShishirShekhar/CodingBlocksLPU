@@ -1,13 +1,11 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
-import Nav from "./components/Nav";
 import Other from "./components/Other/Other";
 import Protected from "./components/Protected";
 
 function App() {
   return (
     <div>
-      <Nav />
       <Router>
         <Routes>
           <Route path="/" element={<Home />} />

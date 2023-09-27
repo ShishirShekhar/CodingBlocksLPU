@@ -9,7 +9,7 @@ const Nav = () => {
         />
         <h1 className="text-3xl font-semibold">CodingBlocks LPU</h1>
       </a>
-      <div className="flex gap-6 items-center">
+      <div className="flex gap-6 items-center"> 
         <a href="/">
           <p className="nav-item">Home</p>
         </a>
