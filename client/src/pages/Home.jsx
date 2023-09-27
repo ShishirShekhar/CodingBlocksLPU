@@ -2,9 +2,11 @@ import Nav from "../components/Nav";
 
 const Home = () => {
   return (
-    <div className="home relative min-h-screen bg-center bg-cover text-white">
+    <div className="text-white">
       <Nav />
-      Home
+      <div className="hero bg-center bg-cover h-[80vh]">
+
+      </div>
     </div>
   );
 };
