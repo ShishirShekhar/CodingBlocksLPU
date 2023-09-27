@@ -1,0 +1,35 @@
+{
+  "short_name": "CodingBlocksLPU",
+  "name": "Student Organization CodingBlocks LPU, Lovely Professional University, Phagwara, Punjab Phone: +91 7091045216. Email: sspdav02@gmail.com. Made with ❤️ by Shishir.",
+  "icons": [
+    {
+      "src": "logo16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "logo32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 24x24",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ed554d",
+  "background_color": "#ed554d"
+}
