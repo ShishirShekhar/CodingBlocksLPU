@@ -6,6 +6,10 @@
   @apply bg-primary px-4 py-2 rounded;
 }
 
+.secondary-btn {
+    @apply bg-white text-primary px-4 py-2 rounded;
+}
+
 .nav-item {
   @apply text-lg;
 }

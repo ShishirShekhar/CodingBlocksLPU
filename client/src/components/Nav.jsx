@@ -19,7 +19,7 @@ const Nav = () => {
         <a href="#contact">
           <p className="nav-item">Contact Us</p>
         </a>
-        <button className="primary-btn">Login</button>
+        <button className="secondary-btn">Login</button>
       </div>
     </div>
   );
