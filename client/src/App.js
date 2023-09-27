@@ -6,7 +6,7 @@ import Protected from "./components/Protected";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Nav />
       <Router>
         <Routes>

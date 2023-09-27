@@ -9,19 +9,17 @@ const Nav = () => {
         />
         <h1 className="text-3xl font-semibold">CodingBlocks LPU</h1>
       </a>
-      <div className="flex gap-2 items-center">
+      <div className="flex gap-6 items-center">
         <a href="/">
-          <p>Home</p>
+          <p className="nav-item">Home</p>
         </a>
         <a href="#event">
-          <p>Event</p>
+          <p className="nav-item">Event</p>
         </a>
         <a href="#contact">
-          <p>Contact Us</p>
+          <p className="nav-item">Contact Us</p>
         </a>
-        <button>
-          Login
-        </button>
+        <button className="primary-btn">Login</button>
       </div>
     </div>
   );
