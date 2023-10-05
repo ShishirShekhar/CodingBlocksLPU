@@ -22,7 +22,7 @@ const Upcoming = () => {
 
     const timerInterval = setInterval(updateTimer, 1000);
     return () => clearInterval(timerInterval);
-  }, []);
+  });
 
   return (
     <div className="upcoming bg-cover h-72 px-10 py-5 flex justify-between">
@@ -35,7 +35,7 @@ const Upcoming = () => {
       </div>
 
       <div className="flex justify-center items-center w-52">
-        <a href="#">
+        <a href="#home">
           <img
             src="https://res.cloudinary.com/shishirasdjfadsfj/image/upload/v1696503592/cblpu/rhxqxqednjpk6hadf42z.png"
             alt="CodingBlocksLPU logo"
